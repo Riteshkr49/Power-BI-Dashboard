@@ -26,7 +26,7 @@ This Power BI dashboard provides a comprehensive overview of product-wise, time-
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](images/dashboard_preview.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ---
 
