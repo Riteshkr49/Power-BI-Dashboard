@@ -42,10 +42,10 @@ This Power BI dashboard provides a comprehensive overview of product-wise, time-
 |------|-------------|
 | `Sales_dashboard.pbix` | Main Power BI report |
 | `README.md` | Project overview |
-| `images/` | Screenshots and visuals |
+| `images/` | Dashboard Images |
 
 ---
 
 ## 📬 Contact
-Created by [Ritesh Kumar](https://www.linkedin.com/in/your-link/)  
+Created by [Ritesh K.](www.linkedin.com/in/ritesh-analytics)  
 Feel free to reach out for collaboration or feedback!
