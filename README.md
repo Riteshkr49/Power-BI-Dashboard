@@ -1,6 +1,6 @@
 # Power BI Sales Dashboard 📊
 
-This Power BI dashboard provides a comprehensive overview of product-wise, time-wise, and geography-wise sales and profit performance.
+This dashboard provides a comprehensive overview of product-wise, time-wise, and geography-wise sales and profit performance.
 
 ---
 
@@ -42,7 +42,7 @@ This Power BI dashboard provides a comprehensive overview of product-wise, time-
 |------|-------------|
 | `Sales_dashboard.pbix` | Main Power BI report |
 | `README.md` | Project overview |
-| `images/` | Dashboard Images |
+| `images` | Dashboard Images |
 
 ---
 
